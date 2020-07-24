@@ -1,0 +1,14 @@
+#container {
+   background-color: royalblue;
+    width: 60%;
+    margin: auto;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+a{
+    color:red;
+    text-transform: uppercase;
+    margin-right: 20px;
+}
